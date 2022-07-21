@@ -1,1 +1,1 @@
-console.log("second js")
+console.log("second")
